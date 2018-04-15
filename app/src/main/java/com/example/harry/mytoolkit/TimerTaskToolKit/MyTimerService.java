@@ -58,7 +58,7 @@ public class MyTimerService extends Service {
         MyTimerTaskHelper mMyTimerTaskHelper = new MyTimerTaskHelper(
                 2000,
                 1000,
-                5,
+                10,
                 new MyTimerTaskHelper.IMyTimerTaskHelper(){
                     @Override
                     public void executeTask(final String tag) {
