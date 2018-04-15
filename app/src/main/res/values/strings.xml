@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyToolkit</string>
+    <string name="timer_task_start">TimerTask Start . </string>
+    <string name="timer_task_cancel">TimerTask Cancel . </string>
+</resources>
