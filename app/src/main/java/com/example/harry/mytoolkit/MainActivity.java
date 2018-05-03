@@ -19,16 +19,14 @@ public class MainActivity extends AppCompatActivity {
     int tagInt = 1;
     private TextView textView;
 
-    private StringBuilder sb = new StringBuilder();
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        initTool();
-
-        init();
+//        initTool();
+//
+//        init();
     }
 
     @Override
